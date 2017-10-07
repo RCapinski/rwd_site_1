@@ -1,0 +1,68 @@
+[class*="col-"] {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+p,
+.spacing-height {
+	line-height: 1.4em;
+	letter-spacing: 0.05em;
+}
+
+header {
+	height: 100%;
+}
+
+header > nav {
+	text-align: center;
+}
+
+header > nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	float: none;
+	text-align: center;
+}
+
+header > nav li {
+	display: block;
+	float: none;
+}
+
+.jumbo {
+	height: 100vh;
+}
+
+.ppl .col-3 {
+	width: 50%;
+}
+
+h4 {
+	margin-top: 15px;
+}
+
+.get-in-touch {
+	max-width: 250px;
+	margin: 0 auto;
+	float: none;
+}
+
+footer .two-columns .col-4 {
+	width: 33.33%;
+	text-align: right;
+}
+
+footer .two-columns .col-8 {
+	width: 66.66%;
+}	
+
+.social-bar {
+	max-width: 250px;
+	margin: 0 auto;
+}
+
+.social-bar .col-2 { 
+	width: 16.66%;
+}
